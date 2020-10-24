@@ -1526,3 +1526,21 @@ section {
 #imagein {
   height: 220px;
 }
+@media(min-width: 560px){
+  #imgq{
+    width: 100%;
+    height: 450px;
+  }
+}
+@media (min-width: 950px){
+  #imgq{
+    width: 100%;
+    height: 700px;
+  }
+}
+@media (max-width: 550px){
+  #imgq{
+     width:650px; 
+     height:600px;
+  }
+}
