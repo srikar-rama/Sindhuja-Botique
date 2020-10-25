@@ -1541,6 +1541,29 @@ section {
 @media (max-width: 550px){
   #imgq{
      width:650px; 
-     height:600px;
+     height:650px;
   }
+}
+.header-text {
+    position: absolute;
+    top: 20%;
+    left: 1.8%;
+    right: auto;
+    width: 96.66666666666666%;
+    color: #fff;
+}
+
+.header-text h2 {
+    font-size: 40px;
+}
+
+.header-text h2 span {
+  color: black;
+  padding: 10px;
+}
+
+.header-text h3 span {
+  color: white;
+  padding: 15px;
+  font-weight: 400px;
 }
