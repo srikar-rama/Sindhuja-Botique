@@ -1565,5 +1565,13 @@ section {
 .header-text h3 span {
   color: white;
   padding: 15px;
-  font-weight: 400px;
+  font-weight: 700px;
 }
+
+@media(min-width: 550px){
+  #qwe{
+    margin-top: 70px;
+  }
+
+
+
